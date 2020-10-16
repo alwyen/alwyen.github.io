@@ -1,0 +1,4 @@
+baseURL = "alwyen.github.io"
+languageCode = "en-us"
+title = "Alex Yen"
+theme = "soho"
