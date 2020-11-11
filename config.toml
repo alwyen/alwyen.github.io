@@ -1,4 +1,4 @@
-baseURL = "alexlwyen.com"
+baseURL = "https://alexlwyen.com"
 languageCode = "en-us"
 title = "Alex Yen"
 theme = "soho"
