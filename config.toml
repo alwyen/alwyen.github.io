@@ -14,7 +14,7 @@ description = "PhD Student at UCSD" #replace "My Blog" with different text
 
 ## Set one of:
 # gravatar = "soho@example.com"
-profilePicture = "images/profile.png"
+profilePicture = "images/yen_website.jpg"
 
 copyright = "Author Name"
 license = "CC BY-SA 4.0"
