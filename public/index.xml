@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex Yen</title>
-    <link>alwyen.github.io/</link>
+    <link>alexlwyen.com/</link>
     <description>Recent content on Alex Yen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2020 21:45:58 -0700</lastBuildDate><atom:link href="alwyen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Oct 2020 21:45:58 -0700</lastBuildDate><atom:link href="alexlwyen.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test_post</title>
-      <link>alwyen.github.io/writing/test_post/</link>
+      <link>alexlwyen.com/writing/test_post/</link>
       <pubDate>Thu, 15 Oct 2020 21:45:58 -0700</pubDate>
       
-      <guid>alwyen.github.io/writing/test_post/</guid>
+      <guid>alexlwyen.com/writing/test_post/</guid>
       <description></description>
     </item>
     
