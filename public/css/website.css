@@ -9,6 +9,11 @@
     color: #000;
 }
 
+.lead {
+    font-size: 0.75rem;
+    font-weight: 300;
+}
+
 body {
     color: #515151;
     background-color: #faf8f8;
@@ -18,5 +23,5 @@ body {
 }
 
 html {
-    font-family: 'Roboto', 'Segoe UI', 'Montserrat', 'Open Sans', Helvetica, sans-serif;
+    font-family: 'Roboto Slab', 'Roboto', 'Segoe UI', 'Montserrat', 'Open Sans', Helvetica, sans-serif;
 }
