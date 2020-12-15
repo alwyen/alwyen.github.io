@@ -47,7 +47,7 @@ customJs = ["js/website.js"]
   url = "/publications/"
 
   [[menu.main]]
-  name = "Personal Writing"
+  name = "Writing"
   weight = 400
   identifier = "writing"
   url = "/writing/"
