@@ -12,39 +12,94 @@
   
 
 <meta itemprop="name" content="404 Page not found">
-<meta itemprop="description" content="">
+<meta itemprop="description" content="Email: alyen@ucsd.edu">
 
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="404 Page not found"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="Email: alyen@ucsd.edu"/>
 
 
 <meta property="og:title" content="404 Page not found" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="Email: alyen@ucsd.edu" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="alwyen.github.io/404.html" />
+<meta property="og:url" content="https://alexlwyen.com/404.html" />
 
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type":"Person",
+      "@id": "https://alexlwyen.com#author",
+      "name": "Alex Yen",
+      "image": {
+        "@type":"ImageObject",
+        
+        "url": "https://alexlwyen.com/images/yen_website.jpg"
+        
+      },
+      "description": "Email: alyen@ucsd.edu"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://alexlwyen.com#website",
+      "url": "https://alexlwyen.com",
+      "name": "Alex Yen",
+      "description": "Email: alyen@ucsd.edu",
+      "publisher": {
+        "@id": "https://alexlwyen.com#author"
+      },
+      "inLanguage": "en-us"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://alexlwyen.com/404.html#webpage",
+      "url": "https://alexlwyen.com/404.html",
+      "name": "404 Page not found",
+      "isPartOf": {
+        "@id": "https://alexlwyen.com#website"
+      },
+      "about": {
+         "@id": "https://alexlwyen.com#author"
+      },
+      "description": "Email: alyen@ucsd.edu",
+      "inLanguage": "en-us",
+      "potentialAction": [
+        {
+          "@type": "ReadAction",
+          "target": [
+            "https://alexlwyen.com/404.html"
+          ]
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 
 
   <link type="text/css"
         rel="stylesheet"
-        href="/alwyen.github.io/css/print.css"
+        href="/css/print.css"
         media="print">
 
   <link type="text/css"
         rel="stylesheet"
-        href="/alwyen.github.io/css/poole.css">
+        href="/css/poole.css">
 
   <link type="text/css"
         rel="stylesheet"
-        href="/alwyen.github.io/css/hyde.css">
+        href="/css/hyde.css">
 
   
 
 
-  
+  <link type="text/css" rel="stylesheet" href="/css/website.css">
 
   <link rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&display=swap">
@@ -64,48 +119,70 @@
   </head>
 <body>
   <aside class="sidebar">
-  <div class="container">
-    <div class="sidebar-about">
-      
+    <div class="container">
+      <div class="sidebar-about">
         
-      
-
-      <h1>Alex Yen</h1>
-
-      
+          
+          <div class="author-image">
+            <img src="/images/yen_website.jpg" class="img-circle img-headshot center" alt="Profile Picture">
+          </div>
+          
+        
+  
+        <h1>Alex Yen</h1>
+  
+        
+        <p class="lead">Email: alyen@ucsd.edu</p>
+        
+      </div>
+  
+      <nav>
+        <ul class="sidebar-nav">
+          <li>
+            <a href="https://alexlwyen.com">Home</a>
+          </li>
+          <li>
+            <a href="/publications/">Publications</a>
+          </li><li>
+            <a href="/writing/">Writing</a>
+          </li><li>
+            <a href="https://alexlwyen.com/CV/AlexYen_CV.pdf">CV</a>
+          </li>
+        </ul>
+      </nav>
+  
+      <section class="social-icons">
+        
+        <a href="https://www.linkedin.com/in/alex-lw-yen" rel="me" title="Linkedin" target="_blank">
+          <i class="fab fa-linkedin" aria-hidden="true"></i>
+        </a>
+        
+        <a href="https://github.com/alwyen" rel="me" title="GitHub" target="_blank">
+          <i class="fab fa-github" aria-hidden="true"></i>
+        </a>
+        
+      </section>
     </div>
-
-    <nav>
-      <ul class="sidebar-nav">
-        <li>
-          <a href="alwyen.github.io">Home</a>
-        </li>
-        
-      </ul>
-    </nav>
-
-    <section class="social-icons">
-      
-    </section>
-  </div>
-</aside>
-
+  </aside>
+  
 
   <main class="content container">
   <h1>Page not found</h1>
 <p class="lead">
     Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
-    <a href="alwyen.github.io">Head back home</a> to try finding it again.
+    <a href="https://alexlwyen.com">Head back home</a> to try finding it again.
 </p>
   </main>
 
   <footer>
   <div>
-    &copy;  2020
+    <p>
+      &copy; Alex Yen 2020
 
-    
+      
 
-    
+      
+    </p>
   </div>
 </footer>
 
@@ -114,7 +191,11 @@
           integrity="sha256-MAgcygDRahs+F/Nk5Vz387whB4kSK9NXlDN3w58LLq0="
           crossorigin="anonymous"></script>
 
-  
+
+  <script src="/js/jquery.min.js"></script>
+  <script src="/js/soho.js"></script>
+
+  <script src="/js/website.js"></script>
 
   
 </body>
