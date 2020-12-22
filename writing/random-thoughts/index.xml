@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random Thoughts on Alex Yen</title>
+    <link>https://alexlwyen.com/writing/random-thoughts/</link>
+    <description>Recent content in Random Thoughts on Alex Yen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Dec 2020 23:35:02 -0500</lastBuildDate><atom:link href="https://alexlwyen.com/writing/random-thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Random Thoughts 1</title>
+      <link>https://alexlwyen.com/writing/random-thoughts/rt1/</link>
+      <pubDate>Thu, 10 Dec 2020 23:35:02 -0500</pubDate>
+      
+      <guid>https://alexlwyen.com/writing/random-thoughts/rt1/</guid>
+      <description>11:35pm It&amp;rsquo;s kinda been weird lately - I felt really anxious but not stressed, and then it felt really weird to not be stressed so(?</description>
+    </item>
+    
+  </channel>
+</rss>
