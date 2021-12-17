@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.alexlwyen.com/misc/writing/</loc>
+  </url><url>
     <loc>https://www.alexlwyen.com/misc/</loc>
     <priority>0</priority>
   </url><url>
@@ -17,7 +19,5 @@
     <loc>https://www.alexlwyen.com/series/</loc>
   </url><url>
     <loc>https://www.alexlwyen.com/tags/</loc>
-  </url><url>
-    <loc>https://www.alexlwyen.com/misc/writing/</loc>
   </url>
 </urlset>
