@@ -1,5 +1,8 @@
 ## Publications
 
+>Sylvia Imanirakiza, Alex Yen, Pat Pannuto, and Jay Taneja. 2026. Lights, Camera, Voltage: Inferring Electric Grid Voltage Using Image-Based Sensing. In Proceedings of the 13th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BuildSys '26). June 22-25, 2026, Banff, Canada. <br>
+\[[Paper Link](https://www.alexlwyen.com/papers/imanirakiza2026LightsCameraVoltage.pdf)\]
+
 >Alex Bellon, **Alex Yen**, and Pat Pannuto. 2023. TagAlong: Free, Wide-Area Data-Muling and Services. In The 24th International Workshop on Mobile Computing Systems and Applications (HotMobile ’23), February 22–23, 2023, Newport Beach, CA, USA. <br>
 \[[Paper Link](https://www.alexlwyen.com/papers/bellon2023tagalong.pdf)\]
 
