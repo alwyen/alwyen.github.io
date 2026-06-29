@@ -59,13 +59,7 @@ customJs = ["js/website.js"]
   url = "https://scholar.google.com/citations?user=F8lPEiIAAAAJ&hl=en"
 
   [[menu.main]]
-  name = "GRFP Content"
-  weight = 450
-  identifier = "grfp"
-  url = "/grfp_content/"
-
-  [[menu.main]]
-  name = "Misc"
+  name = "Miscellaneous"
   weight = 500
   identifier = "misc"
   url = "/misc/"

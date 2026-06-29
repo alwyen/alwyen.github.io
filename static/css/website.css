@@ -1,4 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&family=Lato:wght@400;700&family=Open+Sans:wght@400;700&display=swap");
+
+html {
+    font-family: 'Lato', 'Open Sans', 'Ubuntu';
+}
 
 .sidebar {
     background-color: #ffffff;
@@ -8,6 +12,11 @@
 .sidebar a, .sidebar-about h1 {
     color: #000;
 }
+
+/* .sidebar-nav { */
+    /* text-align: left; */
+    /* margin-left: 50px; */
+/* }  */
 
 .lead {
     font-size: 0.75rem;
@@ -20,10 +29,6 @@ body {
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     text-size-adjust: 100%;
-}
-
-html {
-    font-family: 'Roboto', 'Segoe UI', 'Montserrat', 'Open Sans', Helvetica, sans-serif;
 }
 
 /* .gfg {

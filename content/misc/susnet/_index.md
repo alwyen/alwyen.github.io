@@ -1,6 +1,6 @@
 ---
 title: "Welcome to the Susnet homepage."
-draft: false
+draft: true
 ---
 
 ![susnet_photo](/images/susnet/susnet_photo.jpg)
